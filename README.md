@@ -11,7 +11,7 @@
 
 ## Blog
 
-<a href="https://otch80.github.io/" target="_blank"><img src="https://img.shields.io/badge/otch's Blog-<COLOR CODE>?style=flat-square&logo=<ICON>&logoColor=white"/></a>
+<a href="https://otch80.github.io/" target="_blank"><img src="https://img.shields.io/badge/otch's Blog-23E7E7E7"></a>
 
 ### 🔥Latest Blog Post🔥
 [RecSys Challenge 2015: ensemble learning with categorical features 리뷰](https://otch80.github.io/recommend%20system/Recsys-challenge-2015/) <br>
