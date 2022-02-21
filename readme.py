@@ -55,7 +55,7 @@ for i, feed in enumerate(rss_feed['entries']):
         front_markdown_text += f"[{feed['title']}]({feed['link']}) <br>\n"
 
 front_markdown_text += back_markdown_text
-print(front_markdown_text)
+
 f = open("README.md",mode="w", encoding="utf-8")
-f.write(markdown_text)
+f.write(front_markdown_text)
 f.close()  
