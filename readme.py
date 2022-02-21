@@ -18,7 +18,7 @@ front_markdown_text = """
 
 ## Blog
 
-<a href="https://otch80.github.io/" target="_blank"><img src="https://img.shields.io/badge/otch's Blog-<COLOR CODE>?style=flat-square&logo=<ICON>&logoColor=white"/></a>
+<a href="https://otch80.github.io/" target="_blank"><img src="https://img.shields.io/badge/otch's Blog-23E7E7E7"></a>
 
 ### 🔥Latest Blog Post🔥
 """
